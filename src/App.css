@@ -10,6 +10,20 @@
   overflow: hidden;
 }
 
+.home-header {
+  text-align: center;
+  padding: 60px 0 0;
+  box-sizing: border-box;
+  height: 100px;
+}
+
+.home-header-title {
+  font-family: "fantasy", papyrus;
+  color: #f1fbb6;
+  font-size: 52px;
+  margin: 0;
+}
+
 .App-header {
   background-color: #4d6ba8;
   min-height: 100vh;
